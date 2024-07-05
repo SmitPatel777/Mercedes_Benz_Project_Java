@@ -1,0 +1,20 @@
+S-CLASS
+
+SPECIFICATIONS :
+VERSION                       : S 450 4MATIC
+ENGINE                        : 2999 CC
+TORQUE                        : 750Nm
+POWER                         : 389hp
+ACCELERATION(0 to 100kmph)    : 5.1 sec
+TOP SPEED                     : 250 kmph
+COLOUR OPTIONS                : 1. BLACK
+                                2. WHITE
+
+PRICE : 
+Ex-Showroom Price             : 16170000
+RTO                           :   970200
+Insurance                     :   889350
+Fast Tag                      :      600
+Miscellaneous                 :   15,000
+                                ________
+ON-ROAD PRICE                 : 18045150

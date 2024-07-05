@@ -1,0 +1,18 @@
+GLS
+
+SPECIFICATIONS :
+VERSION                       : 450 4MATIC
+ENGINE                        : 2999 CC
+TORQUE                        : 500Nm
+POWER                         : 362hp
+ACCELERATION(0 to 100kmph)    : 6.2 sec
+TOP SPEED                     : 246 kmph
+COLOUR OPTIONS                : 1. BLACK
+                                2. WHITE 
+
+PRICE : 
+Ex-Showroom Price             : 12100000
+RTO                           :   534000
+Insurance                     :   498058
+                                ________
+ON-ROAD PRICE                 : 13255058

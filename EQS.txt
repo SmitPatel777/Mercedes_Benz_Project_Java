@@ -1,0 +1,18 @@
+EQS
+
+SPECIFICATIONS :
+VERSION                       : EQS 580 4MATIC
+RANGE                         : 857km
+BATTERY CAPACITY              : 107.8kWh
+POWER                         : 750.97bhp
+ACCELERATION(0 to 100kmph)    : 4.3 sec
+TOP SPEED                     : 210 kmph
+COLOUR OPTIONS                : 1. BLACK
+                                2. WHITE
+
+PRICE : 
+Ex-Showroom Price             : 16225000
+Insurance                     :   632000
+Miscellaneous                 :  162,000
+                                ________
+ON-ROAD PRICE                 : 17020000

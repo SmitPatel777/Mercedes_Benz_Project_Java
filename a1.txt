@@ -1,0 +1,20 @@
+GLA
+
+SPECIFICATIONS :
+VERSION                       : 200
+ENGINE                        : 1332 CC
+TORQUE                        : 250Nm
+POWER                         : 161hp
+ACCELERATION(0 to 100kmph)    : 7.3 sec
+TOP SPEED                     : 230 kmph
+COLOUR OPTIONS                : 1. BLACK
+                                2. WHITE 
+
+PRICE : 
+Ex-Showroom Price             : 4872000
+RTO                           :  292320
+Insurance                     :  267960
+Fast Tag                      :     600
+Miscellaneous                 :  15,000
+                               ________
+ON-ROAD PRICE                 : 5447880

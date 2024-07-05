@@ -1,0 +1,20 @@
+E-CLASS
+
+SPECIFICATIONS :
+VERSION                       : E 200
+ENGINE                        : 1991 CC
+TORQUE                        : 320Nm
+POWER                         : 197hp
+ACCELERATION(0 to 100kmph)    : 7.6 sec
+TOP SPEED                     : 240 kmph
+COLOUR OPTIONS                : 1. BLACK
+                                2. WHITE
+
+PRICE : 
+Ex-Showroom Price             : 7250000
+RTO                           :  435000
+Insurance                     :  398750
+Fast Tag                      :     600
+Miscellaneous                 :  15,000
+                                _______
+ON-ROAD PRICE                 : 8099350

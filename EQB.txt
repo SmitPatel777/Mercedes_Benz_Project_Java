@@ -1,0 +1,18 @@
+EQB
+
+SPECIFICATIONS :
+VERSION                       : EQB
+RANGE                         : 423km
+BATTERY CAPACITY              : 66.5kWh
+POWER                         : 225bhp
+ACCELERATION(0 to 100kmph)    : 8 sec
+TOP SPEED                     : 160 kmph
+COLOUR OPTIONS                : 1. BLACK
+                                2. WHITE
+
+PRICE : 
+Ex-Showroom Price             :  7775000
+Insurance                     :   316000
+Miscellaneous                 :    77750
+                                ________
+ON-ROAD PRICE                 :  8168750

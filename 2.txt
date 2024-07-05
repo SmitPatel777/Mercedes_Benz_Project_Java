@@ -1,0 +1,20 @@
+C-CLASS
+
+SPECIFICATIONS :
+VERSION                       : C 200
+ENGINE                        : 1496 CC
+TORQUE                        : 300Nm
+POWER                         : 204hp
+ACCELERATION(0 to 100kmph)    : 7.3 sec
+TOP SPEED                     : 246 kmph
+COLOUR OPTIONS                : 1. BLACK
+                                2. WHITE
+
+PRICE : 
+Ex-Showroom Price             : 5500000
+RTO                           :  330000
+Insurance                     :  302500
+Fast Tag                      :     600
+Miscellaneous                 :  15,000
+                                _______
+ON-ROAD PRICE                 : 6148100
